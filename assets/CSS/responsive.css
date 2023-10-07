@@ -1,0 +1,11 @@
+@media (max-width: 425px) {
+    header{
+        margin-right: -3%;
+    }
+    .port_gallary{
+        width: 100%;
+    }
+    #contact{
+        width: 103%;
+    }
+}
