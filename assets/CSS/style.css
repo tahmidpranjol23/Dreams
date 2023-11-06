@@ -68,7 +68,7 @@ ul , a {
 }
 /* navbar part start */
 .navbar{
-    z-index: 9999;
+    z-index: 1;
 }
 .nav-link{
     font-family: var(--monts);
